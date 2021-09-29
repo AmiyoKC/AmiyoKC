@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmiyoKC
-- 👀 I’m interested in finance, data science, crypto, defi
-- 🌱 I’m currently learning learning how to build on Ethereum .... and healthy eating.
-- 💞️ I’m looking to collaborate with teams building crypto integrations with TradFi.   
+- 👀 I’m interested in finance, data science, cryptocurrency, economics
+- 🌱 I’m currently learning  how to build apps on the blockchain
+- 💞️ I’m looking to collaborate with teams that make money work better for more
 - 📫 How to reach me @AmiyoKC on Twitter
 
 <!---

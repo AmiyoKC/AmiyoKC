@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AmiyoKC
-- 👀 I’m interested in finance, data science, cryptocurrency, economics
-- 🌱 I’m currently learning  how to build apps on the blockchain
+- 👀 I’m interested in finance, data science, cryptocurrency
 - 💞️ I’m looking to collaborate with teams that make money work better for more
 - 📫 How to reach me @AmiyoKC on Twitter
 
